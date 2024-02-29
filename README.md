@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Ronick Aakshath P</h3>
+<h3>Register Number/Staff Id: 212222240084</h3>
 
 
 <h3>AIM:</h3>
@@ -42,8 +42,6 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ### PROGRAM
-#### Developed by: Ronick Aakshath P
-#### Register Number: 212222240084
 ```python
 class VacuumCleanerAgent:
     def __init__(self):
